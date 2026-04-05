@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+p {
+  background-color: rgb(255, 192, 203);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#even-first {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.odd.third-element {
+  font-size: 24px;
+}
+
+#even-second {
+  background-color: rgb(152, 255, 152);
+  font-size: 24px;
+  font-weight: bold;
+}
